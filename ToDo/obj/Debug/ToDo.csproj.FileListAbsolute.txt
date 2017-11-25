@@ -18,3 +18,6 @@ C:\Users\Nye\Dropbox\Programming\C#\Programs\ToDo\ToDo\obj\Debug\ToDo.csproj.Gen
 C:\Users\Nye\Dropbox\Programming\C#\Programs\ToDo\ToDo\obj\Debug\ToDo.Error.resources
 C:\Users\Nye\Dropbox\Programming\C#\Programs\ToDo\ToDo\obj\Debug\ToDo.NewItem.resources
 C:\Users\Nye\Dropbox\Programming\C#\Programs\ToDo\ToDo\obj\Debug\ToDo.List.resources
+D:\Users\Nye\Documents\GitHub\ToDo\ToDo\bin\Debug\ToDo.exe.config
+D:\Users\Nye\Documents\GitHub\ToDo\ToDo\obj\Debug\ToDo.exe
+D:\Users\Nye\Documents\GitHub\ToDo\ToDo\obj\Debug\ToDo.pdb

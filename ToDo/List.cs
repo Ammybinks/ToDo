@@ -27,11 +27,11 @@ namespace ToDo
                 items.Add(new Item(listBox.GetItemText(item)));
             }
 
-            RegistryKey rk = Registry.CurrentUser.OpenSubKey
-            ("Software\\Microsoft\\Windows\\CurrentVersion\\Run", true);
+            //RegistryKey rk = Registry.CurrentUser.OpenSubKey
+            //("Software\\Microsoft\\Windows\\CurrentVersion\\Run", true);
 
-            rk.SetValue("Kimodo", Application.ExecutablePath.ToString());
-            //rk.DeleteValue(this.Name, false);
+            //rk.SetValue("Kimodo", Application.ExecutablePath.ToString());
+            ////rk.DeleteValue(this.Name, false);
         }
 
         private void List_Resize(object sender, EventArgs e)
