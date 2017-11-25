@@ -1,0 +1,77 @@
+Food \ 0
+Think about what you'll be eating this week (Recurring task for every thursday)
+\
+Drawing \ 0
+Perpetual and updatable Primary Task dedicated to drawing & animation
+Animation \ 0
+Finish the eye roll
+\
+Bank Account \ 0
+Open a new bank account for savings
+\
+Homeopath \ 0
+Organise an appointment with a homeopath
+\
+Driving Lessons \ 0
+Organise driving lessons
+\
+Working on this list \ 0
+Perpetual and updatable Primary Task dedicated to working on this ToDo list
+Confirm on Change and Save \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Save Backup and Rollback \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Autosave \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Scheduling \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Global Hotkeys \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Return to Confirm \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Insert in List \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Clear \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Reminders \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Indefinite Listing \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Task Locking \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Database integration \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Tree Navigation \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Settings Dialog \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Minimise to Tray \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Subtask Visualisation \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Clean Up \ 0
+Add functionality to save the opened list automatically after a certain time AFK, after minimising to tray or closing the program
+Commenting \ 0
+Create a system for creating backup and rollback files in case something goes wrong with the file or something isn't saved properly
+Settings \ 0
+Add a settings dialog to control all extraneous behaviour
+\
+GitHub \ 0
+Primary Task dedicated to GitHub
+Set Up Workflow \ 0
+Get this project onto GitHub and prepare workflow
+Transfer Old Work \ 0
+Work to get all the old (and functional) programs of both of the PCs onto GitHub
+\
+Computer Building \ 0
+Task dedicated to research into building a new computer
+\
+RPG \ 0
+Task dedicated to making progress on RPG creation
+D&D Character \ 1
+Ask about viability of the new character for D&D
+Space Heroes \ 0
+Finish reading the manual for Space Heroes
+Space Heroes Character \ 0
+Finish character creation for Space Heroes
+\

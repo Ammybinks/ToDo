@@ -1,0 +1,61 @@
+Food \ 0
+Think about what you'll be eating this week (Recurring task for every thursday)
+\
+Drawing \ 0
+Perpetual and updatable Primary Task dedicated to drawing & animation
+Animation \ 0
+Finish the eye roll
+\
+Bank Account \ 0
+Open a new bank account for savings
+\
+Homeopath \ 0
+Organise an appointment with a homeopath
+\
+Driving Lessons \ 0
+Organise driving lessons
+\
+Working on this list \ 0
+Perpetual and updatable Primary Task dedicated to working on this ToDo list
+Confirm on Change and Save \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Save Backup and Rollback \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Scheduling \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Global Hotkeys \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Return to Confirm \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Insert in List \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Clear \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Reminders \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Indefinite Listing \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Task Locking \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Database integration \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Tree Navigation \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Settings Dialog \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Minimise to Tray \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Subtask Visualisation \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Clean Up \ 0
+Provide a confirmation dialog when changing tasks or saving the list, to limit mistakes
+Commenting \ 0
+Create a system for creating backup and rollback files in case something goes wrong with the file or something isn't saved properly
+\
+GitHub \ 0
+Primary Task dedicated to GitHub
+Set Up Workflow \ 0
+Get this project onto GitHub and prepare workflow
+Transfer Old Work \ 0
+Work to get all the old (and functional) programs of both of the PCs onto GitHub
+\
