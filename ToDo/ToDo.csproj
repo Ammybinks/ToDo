@@ -61,6 +61,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChoiceDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoiceDialog.Designer.cs">
+      <DependentUpon>ChoiceDialog.cs</DependentUpon>
+    </Compile>
     <Compile Include="Error.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +88,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ChoiceDialog.resx">
+      <DependentUpon>ChoiceDialog.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Error.resx">
       <DependentUpon>Error.cs</DependentUpon>
     </EmbeddedResource>

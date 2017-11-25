@@ -136,7 +136,6 @@
             this.pathText.Name = "pathText";
             this.pathText.Size = new System.Drawing.Size(565, 20);
             this.pathText.TabIndex = 8;
-            this.pathText.Text = "C:\\Users\\Nye\\Dropbox\\Programming\\C#\\Programs\\ToDo\\Saves";
             // 
             // loadButton
             // 

@@ -32,6 +32,8 @@ namespace ToDo
 
             //rk.SetValue("Kimodo", Application.ExecutablePath.ToString());
             ////rk.DeleteValue(this.Name, false);
+
+            pathText.Text = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\ToDo";
         }
 
         private void List_Resize(object sender, EventArgs e)
@@ -326,20 +328,47 @@ namespace ToDo
 
         private void saveButton_Click(object sender, EventArgs e)
         {
-            using (StreamWriter writer = new StreamWriter(pathText.Text + "\\List.txt"))
+            string path = pathText.Text + "\\List.txt";
+
+            if(!Directory.Exists(pathText.Text))
             {
-                for(int i = 0; i < items.Count; i++)
+                using (ChoiceDialog dialog = new ChoiceDialog())
                 {
-                    writer.WriteLine(FormString(items[i]));
-                    writer.WriteLine(items[i].description);
+                    dialog.text = "The folder specified does not exist! Create one?";
 
-                    for(int o = 0; o < items[i].items.Count; o++)
+                    switch (dialog.ShowDialog())
                     {
-                        writer.WriteLine(FormString(items[i].items[o]));
-                        writer.WriteLine(items[i].items[o].description);
+                        case DialogResult.OK:
+                            {
+                                Directory.CreateDirectory(pathText.Text);
+                            }
+                            break;
+                        case DialogResult.Cancel:
+                            {
+                                path = "";
+                            }
+                            break;
                     }
+                }
+            }
 
-                    writer.WriteLine("\\");
+            if(path != "")
+            {
+                using (StreamWriter writer = new StreamWriter(pathText.Text + "\\List.txt"))
+                {
+                    for (int i = 0; i < items.Count; i++)
+                    {
+                        writer.WriteLine(FormString(items[i]));
+                        writer.WriteLine(items[i].description);
+
+                        for (int o = 0; o < items[i].items.Count; o++)
+                        {
+                            writer.WriteLine(FormString(items[i].items[o]));
+                            writer.WriteLine(items[i].items[o].description);
+                        }
+
+                        writer.WriteLine("\\");
+                    }
                 }
             }
         }
